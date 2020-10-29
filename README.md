@@ -6,3 +6,4 @@ From what i can see from my implementations, ramdom forrest seams a lot better t
 Students who participated:
 s325974 - Adrian S. Aabech
 s331356 - Helge Helland
+s331383 - Tor Ryan Andersen
